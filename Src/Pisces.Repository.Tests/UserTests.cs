@@ -62,7 +62,7 @@ namespace Pisces.Repository.Tests
         #endregion
 
         [TestMethod]
-        public void User_Add()
+        public void User_Add_ShouldSuccess()
         {
             //
             // TODO: 在此处添加测试逻辑
